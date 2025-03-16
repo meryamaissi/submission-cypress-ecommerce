@@ -1,0 +1,19 @@
+{
+	"name": "Testthisuser",
+	"email": "mery@salonkee.com",
+	"password": "test123456",
+	"signupformlabel": "Enter Account Information",
+	"day": "15",
+	"month": "5",
+	"year": "2005",
+	"firstname": "test first",
+	"lastname": "test last name",
+	"company": "here test",
+	"address1": "test address 1",
+	"address2": "test address 2",
+	"country": "Canada",
+	"state": "state test",
+	"city": "city test",
+	"zipcode": "12566",
+	"mobilenumber": "mobilenumber"
+}
